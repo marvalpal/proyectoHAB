@@ -7,4 +7,4 @@ Adrián Segura Ortiz,
 María del Rocío Valderrama Palacios.
 
 
-Nota: El archivo brca_rnaseq.RData necesario para la ejecución del código no se encuentra en su carpeta correspondiente(ficheros_descargados) si no en Releases debido a su tamaño.
+Nota: El archivo brca_rnaseq.RData y brca_rnaseq.txt necesarios para la ejecución del código no se encuentran en su carpeta correspondiente(ficheros_descargados) si no en Releases debido a su tamaño.
